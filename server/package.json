@@ -2,6 +2,10 @@
   "name": "docker-basics",
   "version": "1.0.0",
   "main": "app.js",
+  "scripts": {
+    "start": "node app.js", 
+    "dev": "node app.js"
+  },
   "author": "PR",
   "license": "MIT",
   "dependencies": {
